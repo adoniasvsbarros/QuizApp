@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <TextView
+
+        android:textAlignment="center"
+        android:text="LOGIN: aluno"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:autoText="false"
+        android:textColor="#db0b0b" />
+
+    <TextView
+        android:textAlignment="center"
+        android:text="SENHA: aluno"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:autoText="false"
+        android:textColor="#db0b0b" />
+    <TextView
+        android:text="
+        Muito obrigado por jogar!
+        Por: Adonias Barros, adoniasvicente@hotmail.com."
+
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:textAlignment="center"/>
+
+</LinearLayout>
