@@ -5,7 +5,7 @@ QuizApp repository, an android app developed with Java in AndroidStudio during t
 To run this application your cell phone must have at least the <strong>Android 4.4. KitKat</strong> version
 
 
-<img src="images/quizzapp.png">
+<img src="images/quizapp.png">
 ## Installation
 
 <ul>
