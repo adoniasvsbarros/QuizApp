@@ -1,11 +1,11 @@
 # QuizApp
 QuizApp repository, an android app developed with Java in AndroidStudio during the XXVI Jornada de Cursos do CITi course.
 
+<img src="images/quizapp.png">
+
 ## Pre requirements
 To run this application your cell phone must have at least the <strong>Android 4.4. KitKat</strong> version
 
-
-<img src="images/quizapp.png">
 ## Installation
 
 <ul>
